@@ -21,6 +21,10 @@
 </a>
 
 
+## Status
+[![Hardip Parmar profile views](https://u8views.com/api/v1/github/profiles/23077242/views/day-week-month-total-count.svg)](https://u8views.com/github/parmarhardip)
+
+
 ## Technology 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
